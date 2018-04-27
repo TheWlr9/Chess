@@ -41,6 +41,7 @@ import javax.swing.*;
  *  @author Robert Sedgewick
  *  @author Kevin Wayne
  *  @author William Ritchie
+ *  @version 1.2
  *  
  *  Modified by: William Ritchie
  *  ~ Made everything instantiable. No more class methods!
