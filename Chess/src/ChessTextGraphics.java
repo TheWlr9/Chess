@@ -177,9 +177,7 @@ class ChessTextGraphics implements GameDisplay{
 				return chosen.charAt(0);
 			else {
 				System.out.println("Invalid piece.");
-				promptForPromotion();
-				
-				return chosen.charAt(0); //Unreachable
+				return promptForPromotion();
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
