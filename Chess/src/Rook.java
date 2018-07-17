@@ -79,7 +79,7 @@ public class Rook extends GamePiece {
 		else {//Is black
 			/*
 			 *We can omit the check to see if the space chosen is unoccupied because in ASCII, ' '<=WHITE
-			 *and the queen's attack method and movement method are identical, 
+			 *and the rook's attack method and movement method are identical, 
 			 *so we can combine the two checks into just one check to see whether the selected point is 
 			 *less than WHITE.
 			 */
