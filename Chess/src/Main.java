@@ -1,12 +1,7 @@
 /**
  * Title: Chess
  * @author William Ritchie
- * @version 1.0.0
- * 
- * Course: COMP 2150
- * Assignment: A3
- * Section: A02
- * Professor: Heather Matheson
+ * @version 1.0.1
  * 
  * Description: This program is the game of chess. It requires objects that implement 
  * ChessController, GameDisplay, or ChessPlayer interfaces. It does not notify the player 
